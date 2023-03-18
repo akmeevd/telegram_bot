@@ -30,8 +30,7 @@ public class TelegramBotUpdatesListener implements UpdatesListener {
     @Autowired
     private NotificationTaskRepository notificationTaskRepository;
 
-    //Раз в минуту ищет уведомления в базе данных, чья дата и время совпадают с текущим
-    @Scheduled(cron = "0 0/1 * * * *")
+    //Ищет уведомления в базе данных, чья дата и время совпадают с текущим
     public List<NotificationTask> getNotificationTasksByDateTime() {
         return notificationTaskRepository.findAll()
                 .stream()
