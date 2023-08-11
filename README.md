@@ -1,6 +1,8 @@
 ![Total Recall](https://mixnews.lv/wp-content/uploads/2022/07/1/2022-07-01-mixnews-fakkhvcilkjx.jpg)
 # ***Greeting to people, my name is MisteRecaller***
-* *If you notice first signs of dementia this app for you*
+
+*If you've noticed first signs of dementia this app for you*
+
 * *find me in telegram*
 * *just enter date, time and notification*
 * *get reminder not to forget*
