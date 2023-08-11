@@ -4,5 +4,6 @@
 * *just enter date, time and notification*
 * *get reminder not to forget*
 
-# for app running:
-- 
+# For app running:
+- pack jar file by ```command mvn clean install```
+- run app from dir target by command java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -Dspring.telegram.bot.token=*** -jar telegram_bot-0.0.1-SNAPSHOT.jar, *** - is username, password to DB and telegram bot token
