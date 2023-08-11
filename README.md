@@ -3,3 +3,6 @@
 * *find me in telegram*
 * *just enter date, time and notification*
 * *get reminder not to forget*
+
+# for app running:
+- 
