@@ -16,5 +16,4 @@
 
 # For app running:
 - pack jar file by ```command mvn clean install```
-- get telegram bot token from https://t.me/BotFather
 - run app from dir target by command ```java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -Dspring.telegram.bot.token=*** -jar telegram_bot-0.0.1-SNAPSHOT.jar```, *** - is username, password to DB and telegram bot token
