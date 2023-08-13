@@ -3,9 +3,14 @@
 
 *If you've noticed first signs of dementia this app for you*
 
-* *find me in telegram*
-* *just enter date, time and notification*
-* *get reminder not to forget*
+# Stack:
+![shield](https://img.shields.io/badge/java)
+
+![shield](https://img.shields.io/badge/spring-green)
+
+![shield](https://img.shields.io/badge/pengrad)
+
+![shield](https://img.shields.io/badge/postgres-blue)
 
 # For app running:
 - pack jar file by ```command mvn clean install```
