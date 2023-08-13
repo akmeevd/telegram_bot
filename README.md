@@ -4,11 +4,11 @@
 *If you've noticed first signs of dementia this app for you*
 
 # Stack:
-![shield](https://img.shields.io/badge/java)
+![shield](https://img.shields.io/badge/java-red)
 
 ![shield](https://img.shields.io/badge/spring-green)
 
-![shield](https://img.shields.io/badge/pengrad)
+![shield](https://img.shields.io/badge/pengrad-grey)
 
 ![shield](https://img.shields.io/badge/postgres-blue)
 
