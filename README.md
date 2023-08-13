@@ -3,7 +3,7 @@
 
 *If you've noticed first signs of dementia this app for you*
 
-*This app writes some info and recalls when time comes*
+*This app writes some info and reminds when time comes*
 
 # Stack:
 ![shield](https://img.shields.io/badge/java-red)
